@@ -4,5 +4,7 @@
 
 <h2>Software Development Projects</h2>
 
-- <b>Company Website</b>
+- <b>Web Applications</b>
     - [Company Website](https://github.com/me-myself-you-yourself/company_website)
+    - [Blog Website](https://github.com/me-myself-you-yourself/blog_website)
+    
