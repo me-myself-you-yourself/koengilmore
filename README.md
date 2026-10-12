@@ -1,12 +1,18 @@
-<h1>Hi, I'm Koen! <br/><a href="https://github.com/me-myself-you-yourself">Programmer</a>
-
-
-
+<h1>
+  Hello I'm Koen<br />I am a
+  <a href="https://github.com/me-myself-you-yourself">Programmer</a>
+</h1>
 <h2>Software Development Projects</h2>
-
-<b>Web Applications</b>
+<h2>Web Applications</h2>
 <ul>
-<ls><a href="https://github.com/me-myself-you-yourself/company_website">Company Website</a></ls>
-<ls><a href="https://github.com/me-myself-you-yourself/blog_website">Blog Website</a></ls>
+  <li>
+    <a href="https://github.com/me-myself-you-yourself/company_website"
+      >Company Website</a
+    >
+  </li>
+  <li>
+    <a href="https://github.com/me-myself-you-yourself/blog_website"
+      >Blog Website</a
+    >
+  </li>
 </ul>
-    
